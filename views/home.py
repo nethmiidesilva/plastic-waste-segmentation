@@ -14,7 +14,7 @@ st.title("Omdena Jaipur Chapter", anchor=False)
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="large", vertical_alignment="center")
 with col1:
-    st.image("C:/Users/Dell User/OneDrive/Desktop/JaipurIndia/JaipurIndia_GangesRiverPlasticInterceptor-main/assets/omdena_jaipur_chapter.jpeg", use_container_width=True)
+    st.image("./assets/omdena_jaipur_chapter.jpeg", use_container_width=True)
 
 with col2:
     st.write("### Protect Ganges River with Artificial Intelligence 🌊")
