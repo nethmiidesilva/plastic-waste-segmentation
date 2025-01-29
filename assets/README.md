@@ -1,0 +1,1 @@
+## Please download model from [here](https://github.com/OmdenaAI/JaipurIndia_GangesRiverPlasticInterceptor/releases/download/V0.0.1/yolov11L.onnx) before running the app.

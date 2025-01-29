@@ -1,0 +1,7 @@
+streamlit
+requests
+opencv-python
+Pillow
+numpy
+onnxruntime
+ffmpeg-python
