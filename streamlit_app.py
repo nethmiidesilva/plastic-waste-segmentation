@@ -28,7 +28,7 @@ pg = st.navigation(
 )
 
 # --- SHARED ON ALL PAGES ---
-st.logo("./assets/omdena_jaipur_chapter.jpeg")
+st.logo("./assets/omdena_jaipur_chapter.jpeg", size="large")
 st.sidebar.image("./assets/omdena_logo.png")
 st.sidebar.markdown("Made with ❤️ by Omdena Community")
 
